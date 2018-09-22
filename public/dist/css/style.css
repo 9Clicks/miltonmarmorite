@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Abril+Fatface|Catamaran|Indie+Flower|Yanone+Kaffeesatz");
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("https://fonts.googleapis.com/css?family=Orbitron|Poiret+One|Poppins");
+@import url("https://fonts.googleapis.com/css?family=Montserrat:100,300,400,500,600,700");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i");
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans:400,600,700|Poppins:400,500,700|Raleway:400,600,700");
+@import url("https://fonts.googleapis.com/css?family=Oswald:300,400,500,600,700");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa:300,400,700");
+#topo {
+  background: #3d3d3d; }
+
+#topo-info {
+  height: 40px;
+  line-height: 40px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 17px; }
+
+#bg-nav {
+  background: #3d3d3d;
+  font-family: 'Raleway', sans-serif;
+  font-size: 18px;
+  border-bottom: solid 2px #71afa5; }
+
+#style-nav li a {
+  font-weight: bold;
+  width: 135px;
+  text-align: center;
+  color: #ffffff;
+  transition: all 0.3s linear;
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear; }
+
+#style-nav li a:hover {
+  color: #71afa5;
+  border-bottom: solid 1px #71afa5; }
+
+#info-end {
+  text-align: right;
+  color: #3d3d3d; }
+
+#info-end a {
+  color: #3d3d3d;
+  text-decoration: none; }
+
+#info-end a:hover {
+  color: #ffffff;
+  text-shadow: #000 4px 4px 6px; }
+
+#icons-redes a {
+  color: #3d3d3d; }
+
+#icons-redes a:hover {
+  color: #ffffff;
+  text-shadow: #000 4px 4px 6px; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,51 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+@import "modules/efects"
+@import "modules/fonts"
+
+#topo
+  @include bg_nulled
+
+#topo-info
+  height: 40px
+  line-height: 40px
+  @include raleway
+  font-size: 17px
+
+#logo
+
+#bg-nav
+  @include bg_nulled
+  @include raleway
+  font-size: 18px
+  border-bottom: solid 2px #71afa5
+
+#style-nav li a
+  font-weight: bold
+  width: 135px
+  text-align: center
+  color: #ffffff
+  @include transition
+
+#style-nav li a:hover
+  @include verde_logo
+  border-bottom: solid 1px #71afa5
+
+#info-end
+  text-align: right
+  @include black_nulled
+
+#info-end a
+  @include black_nulled
+  text-decoration: none
+
+#info-end a:hover
+  color: #ffffff
+  @include sombra_txt2
+
+#icons-redes a
+  @include black_nulled
+
+#icons-redes a:hover
+  color: #ffffff
+  @include sombra_txt2
